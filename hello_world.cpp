@@ -3,12 +3,11 @@
 
 int main()
 {
-	//инициализация переменной name
+	//инициализация строки name
 	std::string name;
-	//ввод от пользователя
+	//ввод и вывод программы
 	std::cin>>name;
-	//вывод программы
-    std::cout<<"Hello World from "<<name;
+  std::cout<<"Hello World from "<<name;
 
-    return 0;
+  return 0;
 }

@@ -5,9 +5,8 @@ int main()
 {
 	//инициализация строки name
 	std::string name;
-	//ввод от пользователя
+	//ввод и вывод программы
 	std::cin>>name;
-	//вывод программы
     std::cout<<"Hello World from "<<name;
 
     return 0;

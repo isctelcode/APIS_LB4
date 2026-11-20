@@ -7,7 +7,7 @@ int main()
 	std::string name;
 	//ввод и вывод программы
 	std::cin>>name;
-    std::cout<<"Hello World from "<<name;
+  std::cout<<"Hello World from "<<name;
 
-    return 0;
+  return 0;
 }

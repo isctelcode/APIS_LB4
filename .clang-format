@@ -1,0 +1,1 @@
+clang-format -style=Mozilla -dump-config
